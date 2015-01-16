@@ -35,6 +35,8 @@ var MyView = module.exports = View.extend({
 * [cloak.localstorage](https://github.com/UmbraEngineering/cloak.localstorage) - Provides an easy interface for storing data in local storage; Also provides an interface to use local storage as your main app storage for `Model` and `Collection` classes
 * [cloak.i18n](https://github.com/UmbraEngineering/cloak.i18n) - Provides a simple internationalization interface for storing translated phrases and determining a client's language
 * [cloak.socketio](https://github.com/UmbraEngineering/cloak.socketio) - Provides a [socket.io](http://socket.io) interface for models based on the [dagger.js](http://www.daggerjs.com) websocket api
+* [cloak.animate](https://github.com/UmbraEngineering/cloak.animate) - Provides animaion methods for controllers and views
+* [cloak.forms](https://github.com/UmbraEngineering/cloak.forms) - Provides an extension to `cloak.view` for easier handling of forms
 
 
 
